@@ -131,3 +131,17 @@ body {
 .footer-contents-2 a {
   color: #8e8e8e;
 }
+
+.footer-contents-3 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 30%;
+  font-size: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.footer-contents-3 a,
+.footer-contents-3 p {
+  color: #8e8e8e;
+}
