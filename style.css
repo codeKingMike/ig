@@ -116,6 +116,10 @@ body {
   color: #8e8e8e;
 }
 
+.footer-contents a:hover {
+  text-decoration: none;
+}
+
 .footer-contents-2 {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr 2fr 2fr 1fr 1fr;
